@@ -1,0 +1,29 @@
+*{
+    margin:0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: sans-serif;
+}
+
+.container-all{
+
+    width: 100%;
+    max-width: 1000px;
+    margin: auto;
+    padding: 80px;
+    margin-left: -3.5%;
+}
+
+.container-all img{
+
+    width: 300px;
+    float: left;
+    margin-right: 1000px;
+}
+
+.container-all p {
+
+    font-size: 15px;
+    font-weight: 300;
+    margin-top: 50px;
+}
